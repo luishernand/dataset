@@ -1,0 +1,164 @@
+                                                    XYZ Company Ltd.                                    Pg 1
+                                  Detailed General Ledger with Net Change for Aug 2004 to Mar 2009
+                                              Dept xxx - Restaurant Costs
+
+ Account                                                                                         Begin             Net          Final   
+   No.              Description of Account              Balance                                                   Change       Balance  
+
+ Jan 2006
+  123-03            Purchases                                                                     0.00        214,861.77    214,861.77
+
+               Tran Date      Tran Amount                   Source         Reference Information         Vendor Name
+               01/02/2006        4,429.36                   GJ0001         Food Purchase-North  Douglas  Distributors
+               01/02/2006       10,450.96                   GJ0002         Liquor Purchase-Liquor  Distribution  Branch
+               01/02/2006          128.25                   GJ0003         Supply Purchase-Avis & Davis  Distributors  Inc
+               01/04/2006        4,895.61                   GJ0004         Food Purchase-North  Douglas  Distributors
+               01/04/2006       11,551.06                   GJ0005         Liquor Purchase-Liquor  Distribution  Branch
+               01/04/2006          141.75                   GJ0006         Supply Purchase-Avis & Davis  Distributors  Inc
+               01/06/2006        4,662.48                   GJ0007         Food Purchase-North  Douglas  Distributors
+               01/06/2006       11,001.01                   GJ0008         Liquor Purchase-Liquor  Distribution  Branch
+               01/06/2006          135.00                   GJ0009         Supply Purchase-Avis & Davis  Distributors  Inc
+               01/09/2006        3,276.19                   GJ0010         Food Purchase-North  Douglas  Distributors
+               01/09/2006       12,773.43                   GJ0011         Liquor Purchase-Liquor  Distribution  Branch
+               01/09/2006          109.92                   GJ0012         Supply Purchase-Avis & Davis  Distributors  Inc
+               01/10/2006        3,621.05                   GJ0013         Food Purchase-North  Douglas  Distributors
+               01/10/2006       14,118.01                   GJ0014         Liquor Purchase-Liquor  Distribution  Branch
+               01/10/2006          121.49                   GJ0015         Supply Purchase-Avis & Davis  Distributors  Inc
+               01/13/2006        3,448.62                   GJ0016         Food Purchase-North  Douglas  Distributors
+               01/13/2006       13,445.72                   GJ0017         Liquor Purchase-Liquor  Distribution  Branch
+               01/13/2006          115.71                   GJ0018         Supply Purchase-Avis & Davis  Distributors  Inc
+               01/16/2006        4,020.71                   GJ0019         Food Purchase-North  Douglas  Distributors
+               01/16/2006       12,192.81                   GJ0020         Liquor Purchase-Liquor  Distribution  Branch
+               01/16/2006          134.35                   GJ0021         Supply Purchase-Avis & Davis  Distributors  Inc
+               01/18/2006        4,443.95                   GJ0022         Food Purchase-North  Douglas  Distributors
+               01/18/2006       13,476.27                   GJ0023         Liquor Purchase-Liquor  Distribution  Branch
+               01/18/2006          148.49                   GJ0024         Supply Purchase-Avis & Davis  Distributors  Inc
+               01/20/2006        4,232.33                   GJ0025         Food Purchase-North  Douglas  Distributors
+               01/20/2006       12,834.54                   GJ0026         Liquor Purchase-Liquor  Distribution  Branch
+               01/20/2006          141.42                   GJ0027         Supply Purchase-Avis & Davis  Distributors  Inc
+               01/23/2006        4,400.85                   GJ0028         Food Purchase-North  Douglas  Distributors
+               01/23/2006       11,031.60                   GJ0029         Liquor Purchase-Liquor  Distribution  Branch
+               01/23/2006          116.03                   GJ0030         Supply Purchase-Avis & Davis  Distributors  Inc
+               01/25/2006        4,864.10                   GJ0031         Food Purchase-North  Douglas  Distributors
+               01/25/2006       12,192.82                   GJ0032         Liquor Purchase-Liquor  Distribution  Branch
+               01/25/2006          128.25                   GJ0033         Supply Purchase-Avis & Davis  Distributors  Inc
+               01/27/2006        4,632.48                   GJ0034         Food Purchase-North  Douglas  Distributors
+               01/27/2006       11,612.21                   GJ0035         Liquor Purchase-Liquor  Distribution  Branch
+               01/27/2006          122.14                   GJ0036         Supply Purchase-Avis & Davis  Distributors  Inc
+               01/30/2006        3,976.46                   GJ0037         Food Purchase-North  Douglas  Distributors
+               01/30/2006       11,612.20                   GJ0038         Liquor Purchase-Liquor  Distribution  Branch
+               01/30/2006          122.14                   GJ0039         Supply Purchase-Avis & Davis  Distributors  Inc
+
+Feb 2006
+  123-03            Purchases                                                               214,861.77        255,700.14    470,561.91
+
+               Tran Date      Tran Amount                   Source         Reference Information         Vendor Name
+               02/01/2006        4,395.03                   GJ0040         Food Purchase-North  Douglas  Distributors
+
+March 20,2009  2:08pm                                                                                       User: KEN  Term: A0
+                                                    XYZ Company Ltd.                                    Pg 2
+                                  Detailed General Ledger with Net Change for Aug 2004 to Mar 2009
+                                              Dept xxx - Restaurant Costs
+
+ Account                                                                                         Begin             Net          Final   
+   No.              Description of Account              Balance                                                   Change       Balance  
+
+               02/01/2006       12,834.54                   GJ0041         Liquor Purchase-Liquor  Distribution  Branch
+               02/01/2006          135.00                   GJ0042         Supply Purchase-Avis & Davis  Distributors  Inc
+               02/03/2006        4,185.74                   GJ0043         Food Purchase-North  Douglas  Distributors
+               02/03/2006       12,223.37                   GJ0044         Liquor Purchase-Liquor  Distribution  Branch
+               02/03/2006          128.57                   GJ0045         Supply Purchase-Avis & Davis  Distributors  Inc
+               02/06/2006        5,240.14                   GJ0046         Food Purchase-North  Douglas  Distributors
+               02/06/2006       13,699.94                   GJ0047         Liquor Purchase-Liquor  Distribution  Branch
+               02/06/2006          157.29                   GJ0048         Supply Purchase-Avis & Davis  Distributors  Inc
+               02/08/2006        5,791.73                   GJ0049         Food Purchase-North  Douglas  Distributors
+               02/08/2006       15,142.04                   GJ0050         Liquor Purchase-Liquor  Distribution  Branch
+               02/08/2006          173.85                   GJ0051         Supply Purchase-Avis & Davis  Distributors  Inc
+               02/10/2006        5,515.93                   GJ0052         Food Purchase-North  Douglas  Distributors
+               02/10/2006       14,420.99                   GJ0053         Liquor Purchase-Liquor  Distribution  Branch
+               02/10/2006          165.57                   GJ0054         Supply Purchase-Avis & Davis  Distributors  Inc
+               02/13/2006        5,872.97                   GJ0055         Food Purchase-North  Douglas  Distributors
+               02/13/2006       16,744.32                   GJ0056         Liquor Purchase-Liquor  Distribution  Branch
+               02/13/2006          134.82                   GJ0057         Supply Purchase-Avis & Davis  Distributors  Inc
+               02/15/2006        6,491.18                   GJ0058         Food Purchase-North  Douglas  Distributors
+               02/15/2006       18,506.88                   GJ0059         Liquor Purchase-Liquor  Distribution  Branch
+               02/15/2006          149.02                   GJ0060         Supply Purchase-Avis & Davis  Distributors  Inc
+               02/17/2006        6,182.08                   GJ0061         Food Purchase-North  Douglas  Distributors
+               02/17/2006       17,625.60                   GJ0062         Liquor Purchase-Liquor  Distribution  Branch
+               02/17/2006          141.92                   GJ0063         Supply Purchase-Avis & Davis  Distributors  Inc
+               02/20/2006        5,952.31                   GJ0064         Food Purchase-North  Douglas  Distributors
+               02/20/2006       15,983.25                   GJ0065         Liquor Purchase-Liquor  Distribution  Branch
+               02/20/2006          164.78                   GJ0066         Supply Purchase-Avis & Davis  Distributors  Inc
+               02/22/2006        6,578.87                   GJ0067         Food Purchase-North  Douglas  Distributors
+               02/22/2006       17,665.70                   GJ0068         Liquor Purchase-Liquor  Distribution  Branch
+               02/22/2006          182.13                   GJ0069         Supply Purchase-Avis & Davis  Distributors  Inc
+               02/24/2006        6,265.59                   GJ0070         Food Purchase-North  Douglas  Distributors
+               02/24/2006       16,824.47                   GJ0071         Liquor Purchase-Liquor  Distribution  Branch
+               02/24/2006          173.45                   GJ0072         Supply Purchase-Avis & Davis  Distributors  Inc
+               02/27/2006        5,247.72                   GJ0073         Food Purchase-North  Douglas  Distributors
+               02/27/2006       14,461.03                   GJ0074         Liquor Purchase-Liquor  Distribution  Branch
+               02/27/2006          142.32                   GJ0075         Supply Purchase-Avis & Davis  Distributors  Inc
+
+ Mar 2006
+  123-03            Purchases                                                               255,700.14        350,468.73    821,030.64
+
+               Tran Date      Tran Amount                   Source         Reference Information         Vendor Name
+               03/01/2006        5,800.12                   GJ0076         Food Purchase-North  Douglas  Distributors
+               03/01/2006       15,983.24                   GJ0077         Liquor Purchase-Liquor  Distribution  Branch
+               03/01/2006          157.30                   GJ0078         Supply Purchase-Avis & Davis  Distributors  Inc
+               03/03/2006        5,523.92                   GJ0079         Food Purchase-North  Douglas  Distributors
+               03/03/2006       15,222.14                   GJ0080         Liquor Purchase-Liquor  Distribution  Branch
+               03/03/2006          149.81                   GJ0081         Supply Purchase-Avis & Davis  Distributors  Inc
+               03/06/2006        8,129.33                   GJ0082         Food Purchase-North  Douglas  Distributors
+               03/06/2006       15,041.62                   GJ0083         Liquor Purchase-Liquor  Distribution  Branch
+               03/06/2006          255.73                   GJ0084         Supply Purchase-Avis & Davis  Distributors  Inc
+               03/08/2006        8,985.05                   GJ0085         Food Purchase-North  Douglas  Distributors
+               03/08/2006       16,624.94                   GJ0086         Liquor Purchase-Liquor  Distribution  Branch
+               03/08/2006          282.65                   GJ0087         Supply Purchase-Avis & Davis  Distributors  Inc
+               03/10/2006        8,557.19                   GJ0088         Food Purchase-North  Douglas  Distributors
+               03/10/2006       15,833.28                   GJ0089         Liquor Purchase-Liquor  Distribution  Branch
+               03/10/2006          269.19                   GJ0090         Supply Purchase-Avis & Davis  Distributors  Inc
+
+March 20,2009  2:08pm                                                                                       User: KEN  Term: A0
+                                                    XYZ Company Ltd.                                    Pg 3
+                                  Detailed General Ledger with Net Change for Aug 2004 to Mar 2009
+                                              Dept xxx - Restaurant Costs
+
+ Account                                                                                         Begin             Net          Final   
+   No.              Description of Account              Balance                                                   Change       Balance  
+
+               03/13/2006        6,966.56                   GJ0091         Food Purchase-North  Douglas  Distributors
+               03/13/2006       18,384.20                   GJ0092         Liquor Purchase-Liquor  Distribution  Branch
+               03/13/2006          219.20                   GJ0093         Supply Purchase-Avis & Davis  Distributors  Inc
+               03/15/2006        7,699.88                   GJ0094         Food Purchase-North  Douglas  Distributors
+               03/15/2006       20,319.38                   GJ0095         Liquor Purchase-Liquor  Distribution  Branch
+               03/15/2006          242.27                   GJ0096         Supply Purchase-Avis & Davis  Distributors  Inc
+               03/17/2006        7,333.22                   GJ0097         Food Purchase-North  Douglas  Distributors
+               03/17/2006       19,351.79                   GJ0098         Liquor Purchase-Liquor  Distribution  Branch
+               03/17/2006          230.74                   GJ0099         Supply Purchase-Avis & Davis  Distributors  Inc
+               03/20/2006        7,778.50                   GJ0100         Food Purchase-North  Douglas  Distributors
+               03/20/2006       17,548.55                   GJ0101         Liquor Purchase-Liquor  Distribution  Branch
+               03/20/2006          267.91                   GJ0102         Supply Purchase-Avis & Davis  Distributors  Inc
+               03/22/2006        8,597.28                   GJ0103         Food Purchase-North  Douglas  Distributors
+               03/22/2006       19,395.77                   GJ0104         Liquor Purchase-Liquor  Distribution  Branch
+               03/22/2006          296.11                   GJ0105         Supply Purchase-Avis & Davis  Distributors  Inc
+               03/24/2006        8,187.89                   GJ0106         Food Purchase-North  Douglas  Distributors
+               03/24/2006       18,472.16                   GJ0107         Liquor Purchase-Liquor  Distribution  Branch
+               03/24/2006          282.01                   GJ0108         Supply Purchase-Avis & Davis  Distributors  Inc
+               03/27/2006        6,716.63                   GJ0109         Food Purchase-North  Douglas  Distributors
+               03/27/2006       15,877.26                   GJ0110         Liquor Purchase-Liquor  Distribution  Branch
+               03/27/2006          231.38                   GJ0111         Supply Purchase-Avis & Davis  Distributors  Inc
+               03/29/2006        7,423.65                   GJ0112         Food Purchase-North  Douglas  Distributors
+               03/29/2006       17,548.55                   GJ0113         Liquor Purchase-Liquor  Distribution  Branch
+               03/29/2006          255.73                   GJ0114         Supply Purchase-Avis & Davis  Distributors  Inc
+               03/31/2006        7,070.14                   GJ0115         Food Purchase-North  Douglas  Distributors
+               03/31/2006       16,712.91                   GJ0116         Liquor Purchase-Liquor  Distribution  Branch
+               03/31/2006          243.55                   GJ0117         Supply Purchase-Avis & Davis  Distributors  Inc
+
+                                                                                                      ===============
+                                        Balance                                                            821,030.64
+
+                                                     ===== End of Report =====
+
+March 20,2009  2:08pm                                                                                       User: KEN  Term: A0
+
